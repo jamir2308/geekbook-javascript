@@ -1,0 +1,9 @@
+.style {
+  padding: 5px;
+  border: 2px solid black;
+  color: brown;
+}
+
+.opaco {
+  opacity: 0.5;
+}
